@@ -1,0 +1,1 @@
+- []  the FTP client first establishes a connection as a TCP client, but later accepts connections like a TCP server.
